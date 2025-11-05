@@ -12,7 +12,7 @@ A centralized digital platform for managing and automating student academic resu
 | **Md. Montasir Hasan** | 27 | CSE | Dhaka International University | [@Montasirpeal](https://github.com/Montasirpeal) |
 | **Nusrat Jahan** | 38 | CSE | Dhaka International University | [@nusrattasfi](https://github.com/nusrattasfi) |
 | **Mohammed Shahparan** | 39 | CSE | Dhaka International University | [@paransha1](https://github.com/paransha1) |
-| **Nushaiba Kawser Era** | 41 | CSE | Dhaka International University | — |
+| **Nushaiba Kawser Era** | 41 | CSE | Dhaka International University | [@nushaibakawser](https://github.com/nushaibakawser) |
 
 **Submitted to:**  
 📘 *Md. Ayon Mia*, Lecturer, Department of CSE, Dhaka International University  
